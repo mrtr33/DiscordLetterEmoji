@@ -1,2 +1,2 @@
 # DiscordLetterEmoji
-Writes like 🇹🇭🇮🇸 for discord
+Writes like 🇹 🇭 🇮 🇸 for discord
